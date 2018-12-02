@@ -10,7 +10,7 @@ key = '**************'
 data = ""
 
 #for now destination is always my phone
-dest = '5197315325@pcs.rogers.com'
+dest = '**********@pcs.rogers.com'
 
 #IMAP log-in
 imapObj = imapclient.IMAPClient('imap.mail.yahoo.com', ssl = True)
